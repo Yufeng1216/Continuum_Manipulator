@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.ipynb_checkpoints/
+*.h5
+data1.csv
+~$*
+*.gcode
+*.gcode.3mf
